@@ -39,3 +39,5 @@ V
 &PocGuidedTour/wwwroot/appsettings.json,5\4\54d6612217bae32b2bd7f3339e26db8792e996f2
 [
 +PocGuidedTour/Options/AppSettingsOptions.cs,f\a\fa18968c42c9eccbb41bb3256eddbc98614dc28c
+N
+PocGuidedTour/Pages/Test.razor,c\3\c367da94f17e9c6dbfd3ec53cdf6f04a0701da1a

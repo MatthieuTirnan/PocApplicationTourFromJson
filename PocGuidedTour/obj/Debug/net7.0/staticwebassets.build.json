@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TzyZjpVXapaHG0Zb4KfRiWCHNko0YZNz9zfzYPq8SrA=",
+  "Hash": "ZT7ud/uaatt0U+HuHG+nCdqutITtmYxyY2IEco+Ke74=",
   "Source": "PocGuidedTour",
   "BasePath": "/",
   "Mode": "Root",
@@ -882,23 +882,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ma-tirnan\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\runtimes\\browser-wasm\\lib\\net7.0\\netstandard.dll"
-    },
-    {
-      "Identity": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
-      "SourceId": "PocGuidedTour",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Newtonsoft.Json.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ma-tirnan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\_framework\\PocGuidedTour.dll",
@@ -5506,23 +5489,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Resources.Writer.dll"
-    },
-    {
-      "Identity": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\obj\\Debug\\net7.0\\build-gz\\LIOL26Tz.gz",
-      "SourceId": "PocGuidedTour",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\obj\\Debug\\net7.0\\build-gz\\lRh7VTuR.gz",

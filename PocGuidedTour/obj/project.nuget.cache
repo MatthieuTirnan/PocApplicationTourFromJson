@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "29KezA0aEdlqFGn5D5N5eq7f0Uq9eAsLdJ+NMQ7kd9MvQCAXzdOsVwAP/c0T1kHLZ31nZz5gdoTC0oBdTqC3JQ==",
+  "dgSpecHash": "EQQHNB76Z2kiHgH6GGlQpatdYz/UrY3l+w1cwN6Ywwa+S2/IxCWD+nps3ODjPLyC3CtBnisi63hjvjC8m0YnLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ma-tirnan\\RiderProjects\\PocGuidedTour\\PocGuidedTour\\PocGuidedTour.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,6 @@
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\microsoft.jsinterop\\7.0.10\\microsoft.jsinterop.7.0.10.nupkg.sha512",
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.10\\microsoft.jsinterop.webassembly.7.0.10.nupkg.sha512",
-    "C:\\Users\\ma-tirnan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\stgtour.gtour\\1.0.8\\stgtour.gtour.1.0.8.nupkg.sha512",
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\ma-tirnan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",

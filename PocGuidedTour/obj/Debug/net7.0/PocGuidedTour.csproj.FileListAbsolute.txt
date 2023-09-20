@@ -834,8 +834,4 @@ C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\GT
 C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\GTour.dll
 C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\obj\Debug\net7.0\build-gz\ob4mdV8a.gz
 C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\obj\Debug\net7.0\build-gz\j+ZqKLfx.gz
-C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll
-C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
-C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\obj\Debug\net7.0\build-gz\LIOL26Tz.gz
 C:\Users\ma-tirnan\RiderProjects\PocGuidedTour\PocGuidedTour\bin\Debug\net7.0\wwwroot\appsettings.json
