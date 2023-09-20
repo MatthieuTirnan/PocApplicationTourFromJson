@@ -1,0 +1,29 @@
+@page "/test"
+@using GTour.Components
+<GuidedTour TourId="FormGuidedTour" OverlayEnabled="true">
+    <GuidedTourStep Title="My First Step" StepName="firstStep" TourStepSequence="1" ElementSelector="[data-form-firstStep]">
+        <span>This is my first step</span>
+    </GuidedTourStep>
+    <GuidedTourStep Title="My secondStep" StepName="data-form-secondStep" TourStepSequence="2" ElementSelector="[data-form-secondStep]">
+        <span>This is my first step</span>
+    </GuidedTourStep>
+</GuidedTour>
+<div data-form-firstStep>
+    <span>My parent container is the first step target, see my parent wrapper's data attribute corresponding to the ElementSelector of the step?</span>
+</div>
+<div data-form-secondStep>
+    <span>My parent container is the first step target, see my parent wrapper's data attribute corresponding to the ElementSelector of the step?</span>
+</div>
+<button @onclick="StartTour"></button>
+@code {
+    
+        [Inject]
+        private GTour.Abstractions.IGTourService GTourService { get; set; }
+
+    private async Task StartTour()
+    {
+        await GTourService.StartTour("FormGuidedTour");
+    }
+
+    
+}

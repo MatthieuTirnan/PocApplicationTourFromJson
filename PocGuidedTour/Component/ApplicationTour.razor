@@ -1,0 +1,29 @@
+@inherits PocGuidedTour.component.ApplicationTour
+@using GTour.Components
+@using PocGuidedTour.component
+@using PocGuidedTour.Options
+
+
+<GuidedTour TourId="@ViewModel.TourId" OverlayEnabled="true">
+    @foreach (var step in TourData.Steps )
+    {
+        <GuidedTourStep Title="@step.Title" 
+                        TourStepSequence="@step.TourStepSequence" 
+                        ElementSelector="@step.ElementSelector"
+                        OnNavigateNext="() => NavigateNextPage(step)"
+                        OnNavigatePrevious="() => NavigatePreviousPage(step)"
+                        CancelTourButtonText="Annuler"
+                        PreviousStepButtonText="Précédant"
+                        NextStepButtonText="Suivant"
+                        CompleteTourButtonText="Terminer"
+                        >
+            <span>@step.Content</span>
+        </GuidedTourStep>
+    }
+   
+    
+</GuidedTour>
+
+<section>
+    <button class="btn btn-primary" @onclick="StartTour">StartTour</button>
+</section>
